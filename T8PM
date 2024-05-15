@@ -1,2 +1,0 @@
-saludo="Hola, mi nombre es Pablo Alejandro Morales Gudiel"
-print(saludo)
